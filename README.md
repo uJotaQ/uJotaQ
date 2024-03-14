@@ -1,4 +1,4 @@
-<h2 align="center">My name is João Gabriel Santos Silva and I'm a GameDev, from BA - Brasil</h2>
+<h2 align="center">My name is João Gabriel Santos Silva and i'm a GameDev, from BA - Brasil</h2>
 
 ###
 
