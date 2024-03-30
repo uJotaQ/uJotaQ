@@ -36,5 +36,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
 </div>
+<p align="center">
+  <img src="https://www.codewars.com/users/uJotaQ/badges/large" alt="CodeWars Rank">
+</p>
+
 
 ###
