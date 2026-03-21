@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm João Gabriel Santos Silva 👋<br>Full Stack Developer from BA - Brazil</h2>
+<h2 align="center">João Gabriel Santos Silva<br>Full Stack Developer from BA - Brazil</h2>
 
 ###
 
