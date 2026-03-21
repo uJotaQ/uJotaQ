@@ -65,7 +65,7 @@
 
 <div align="center">
   <!-- Beecrowd -->
-  <a href="https://www.beecrowd.com.br/judge/en/profile/SEU_ID_AQUI" target="_blank">
+  <a href="https://judge.beecrowd.com/pt/profile/988441" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge" height="40"/>
   </a>
 </div>
