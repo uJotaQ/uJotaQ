@@ -59,13 +59,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-João%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
 
-</div>
-
-###
-
-<div align="center">
-  <!-- Beecrowd -->
   <a href="https://judge.beecrowd.com/pt/profile/988441" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge" height="40"/>
   </a>
+
 </div>
