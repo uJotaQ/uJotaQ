@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uJotaQ&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uJotaQ&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" />
-</div>
 
 ###
 
