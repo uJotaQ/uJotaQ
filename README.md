@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" />
+<img align="right" height="230" src="https://media0.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
 ###
 
@@ -53,10 +53,6 @@
 
   <a href="https://www.linkedin.com/in/joão-gabriel-926045256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
-  </a>
-
-  <a href="https://judge.beecrowd.com/pt/profile/988441" target="_blank">
-    <img src="https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge" height="60"/>
   </a>
 
 </div>
